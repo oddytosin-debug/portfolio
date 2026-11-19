@@ -1,0 +1,259 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.grid {
+    display: grid;
+    gap: 10px;
+    grid-template-columns: 0.6fr 0.4fr 1fr 0.4fr 0.6fr;
+    width: 55%;
+    margin: 100px auto;
+    height: 90vh;
+
+
+}
+
+
+
+.grid div {
+    /* background-color: rgb(207, 38, 38); */
+    /* padding: 4px 10px; */
+}
+
+.grid :nth-child(1){
+    display: grid;
+    grid-template-rows: 0.6fr 1.5fr 1fr;
+    gap: 10px;
+    
+
+
+
+}
+
+
+
+.grid :nth-child(1) div {
+    background-color:black;
+    border-radius: 10px;
+    
+    
+}
+
+.grid :nth-child(2){
+    display: grid;
+    grid-template-rows: 1.2fr 1.5fr 0.8fr;
+    gap: 10px;
+}
+
+.grid :nth-child(2) div {
+    background-color: black;
+    border-radius: 10px;
+    
+    
+}
+
+.grid :nth-child(3){
+    display: grid;
+    grid-template-rows: 0.8fr 1.5fr 1.2fr;
+    gap: 10px;
+}
+
+.grid :nth-child(3) div{
+    background-color: black;
+    border-radius: 10px;
+}
+
+.grid :nth-child(4){
+    display: grid;
+    grid-template-rows: 1.2fr 1.5fr 0.8fr;
+    gap: 10px;
+}
+
+.grid :nth-child(4) div{
+    background-color: black;
+    border-radius: 10px;
+}
+
+.grid :nth-child(5){
+    display: grid;
+    grid-template-rows: 0.7fr 1.2fr 0.9fr;
+    gap: 10px;
+}
+
+.grid :nth-child(5) div{
+    background-color: black;
+    border-radius: 10px;
+}
+
+    
+.ab {
+    background-image: url(assets/images/openai.png);
+    background-repeat:no-repeat;
+    background-size: cover;
+    /* filter: brightness(150%); */
+
+
+}
+
+.ab:hover{
+    filter: brightness(120%);
+    
+}
+
+.ac {
+    background-image: url(assets/opal.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.ac:hover{
+    filter: brightness(120%);
+    /* filter: blur(1px); */
+}
+
+.ad {
+    background-image: url(assets/feastables.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.ad:hover{
+    filter: brightness(120%);
+    /* filter: blur(1px); */
+}
+
+.ae {
+    background-image: url(assets/images/gumroad.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.ae:hover{
+    filter: brightness(120%);
+    /* filter: blur(1px); */
+}
+
+.af {
+    background-image: url(assets/skims.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.af:hover{
+    filter: brightness(120%);
+    /* filter: blur(1px); */
+}
+
+.ag {
+    background-image: url(media/reddit.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.ag:hover{
+    filter: brightness(120%);
+    /* filter: blur(1px); */
+}
+
+.zz {
+    background-image: url(media/rivian.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.zz:hover{
+    filter: brightness(120%);
+    /* filter: blur(1px); */
+}
+
+.za {
+    background-image: url(media/shopify.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.za:hover{
+    filter: brightness(120%);
+    /* filter: blur(1px); */
+}
+
+.zb {
+    background-image: url(media/clerk.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.zb:hover{
+    filter: brightness(120%);
+    /* filter: blur(1px); */
+}
+
+.zaa {
+    background-image: url(media/verge.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.zaa:hover{
+    filter: brightness(120%);
+    /* filter: blur(1px); */
+
+}
+
+.zbb {
+    background-image: url(media/googleio.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.zbb:hover{
+    filter: brightness(120%);
+    /* filter: blur(1px); */
+}
+
+.aab {
+    background-image: url(media/ted.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.aab:hover{
+    filter: brightness(120%);
+    /* filter: blur(1px); */
+}
+
+.ggg {
+    background-image: url(media/poolside.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.ggg:hover{
+    filter: brightness(120%);
+    /* filter: blur(1px); */
+}
+
+.hhhh {
+    background-image: url(media/midjourney.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hhhh:hover{
+    filter: brightness(120%);
+    /* filter: blur(1px); */
+}
+
+.jjj {
+    background-image: url(media/nasa.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jjj:hover{
+    filter: brightness(120%);
+}
+
+

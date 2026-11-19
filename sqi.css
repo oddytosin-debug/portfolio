@@ -1,0 +1,421 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+
+header {
+    display: flex;
+    align-items: center;
+    margin: 10px 25px;
+    justify-content: space-around;
+    text-decoration: solid;
+    margin-right: 300px;
+    justify-items: center;
+    header id="main-header" data-height-onload="86" data-height-loaded="true" data-fixed-height-onload="0" style="top: 0px;
+ <div class="container clearfix et_menu_container"><div class="logo_container"><span class="logo_helper"></span><a href="https://sqi.edu.ng/"><img src="https://edu.sqi.ng/wp-content/uploads/2019/01/co.jpg" width="400" height="400" alt="Acquire In-Demand Tech skills." id="logo" data-height-percentage="90" data-actual-width="400" data-actual-height="400">;
+
+}
+
+
+nav a {
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 200;
+
+
+}
+
+
+header img {
+    height: 150px;
+    margin-left: 100px;
+
+}
+
+.ppppp {
+    display: flex;
+    /* justify-content: space-between; */
+}
+
+
+nav {
+    display: flex;
+    gap: 60px;
+
+
+
+}
+
+.Admissiontag {
+    background-image: linear-gradient(90deg, #000059 25%, rgba(41, 36, 102, 0.55) 100%), url(https://edu.sqi.ng/wp-content/uploads/2024/08/sqi-matriculating-students.jpg);
+    background-size: cover;
+
+
+}
+
+.content {
+    margin-left: 100px;
+    color: white;
+}
+
+.button {
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-top: 80px;
+    border-radius: 25px;
+    background-color: #000059;
+    color: white;
+    height: 80px;
+    margin-left: 60px;
+    font-size: 30px;
+    font-family: initial;
+}
+
+.content {
+    font-size: 40px;
+    font-weight: 100;
+    padding-top: 80px;
+
+}
+
+.kite {
+    font-size: 25px;
+    margin-left: 30px;
+    line-height: 1.4;
+    font-weight: 100;
+}
+
+.gggg {
+    background-color: #EF7028;
+    height: 25px;
+    border-radius: 10px;
+    font-size: 20px;
+    padding-bottom: 25px;
+    color: white;
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.hhhh {
+    background-color: #000059;
+    height: 25px;
+    border-radius: 10px;
+    font-size: 20px;
+    padding-bottom: 25px;
+    color: white;
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.dddd {
+    margin-left: 30px;
+}
+
+.eeee {
+    margin-left: 30px;
+}
+
+.ffff {
+    margin-left: 30px;
+}
+
+.vvvv {
+    margin-top: 1px;
+    font-size: 80px;
+}
+
+
+.iiii {
+
+    background-color: #25D366;
+    height: 25px;
+    border-radius: 10px;
+    font-size: 20px;
+    padding-bottom: 25px;
+    color: white;
+    margin: 26px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.classtwo {
+    display: flex;
+    justify-content: space-between;
+    padding: 60px 50px;
+    margin: 20px;
+
+}
+
+.learning {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.learningtwo {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    font-size: 30px;
+    font-style: normal;
+
+}
+
+.learningthree {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.grid {
+    display: grid;
+    gap: 10px;
+    grid-template-columns: 100px 100px 100px;
+    height: 600px;
+
+}
+
+.jjj {
+    display: flex;
+    margin-top: 70px;
+    justify-content: center;
+    font-size: 26.3px;
+    color: #040059;
+}
+
+.tension {
+    color: grey;
+    justify-content: center;
+    display: flex;
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+.zamani {
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    font-size: 20px;
+    background-color: #020F41;
+    color: white;
+    border-radius: 20px;
+
+}
+
+
+.shigo {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    font-size: 25px;
+    color: white;
+}
+
+.olaoluwa {
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    color: white;
+}
+
+
+.rafiat {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    font-size: 23px;
+    width: 2500px;
+    font-weight: 100;
+    color: #C1B2AD;
+}
+
+.yemi {
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+    font-size: 25px;
+    width: 2500px;
+    font-weight: 100;
+    color: #C1B2AD;
+}
+
+.tosin {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    font-size: 23px;
+    color: #000059;
+
+}
+
+.oluwa {
+    display: flex;
+    justify-content: center;
+    color: #7C718B;
+}
+
+.anglican {
+    display: flex;
+    justify-content: center;
+    margin-top: 75px;
+    font-size: 20px;
+    color: #000059;
+    margin-bottom: 45px;
+    margin-right: 100px;
+}
+
+.eaten {
+    display: flex;
+    justify-content: center;
+    margin-right: 90px;
+    font-size: 44px;
+    color: white;
+}
+
+.titi {
+    display: flex;
+    justify-content: center;
+    font-size: 21px;
+    margin-top: 40px;
+    color: white;
+}
+
+.gelato {
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+    font-size: 21px;
+    color: white;
+}
+
+.houston {
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    color: #000059;
+}
+
+.texas {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+    font-size: 18.5px;
+    color: #AEB3B9;
+}
+
+.yekini {
+    display: flex;
+    margin-top: 70px;
+    font-size: 20px;
+    margin-left: 550px;
+}
+
+.boli {
+    display: flex;
+    font-size: 20px;
+    margin-left: 550px;
+}
+
+.first-photos {
+    display: flex;
+    justify-content: center;
+    gap: 110px;
+    margin-top: 90px;
+}
+
+.Cozyranking {
+    display: flex;
+    justify-content: center;
+    gap: 110px;
+    margin-top: 90px;
+}
+
+.Bojo-Naira {
+    display: flex;
+    justify-content: center;
+    gap: 110px;
+    margin-top: 90px;
+}
+
+
+.SOETAN {
+    display: flex;
+    margin-top: 100px;
+    margin-left: 350px;
+    font-size: 20px;
+    height: 70px;
+    color: white;
+}
+
+.omoniyi {
+    display: flex;
+    margin-top: 17px;
+    margin-left: 340px;
+    font-size: 35px;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.boston {
+    display: flex;
+    justify-content: center;
+    /* margin-top: 40px; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+
+
+}
+
+.colorado {
+    display: flex;
+    width: 800px;
+    font-size: 20px;
+    margin-left: 1100px;
+    margin-top: 15px;
+}
+
+.yam {
+    display: flex;
+    width: 800px;
+    font-size: 20px;
+    margin-left: 1100px;
+}
+
+.egg {
+    display: flex;
+    width: 800px;
+    font-size: 20px;
+    margin-left: 1100px;
+}
+
+.rice {
+    display: flex;
+    width: 800px;
+    font-size: 20px;
+    margin-left: 1100px;
+}
+
+.jug {
+    display: flex;
+    width: 800px;
+    font-size: 20px;
+    margin-left: 1100px;
+}
+
+.orange {
+    display: flex;
+    /* justify-content: center; */
+    margin-top: 40px;
+    margin-left: 1115px;
+    /* border-radius: 20px; */
+    margin-bottom: 70px;
+}
+
+.bola {
+    display: flex;
+    height: 300px;
+}
