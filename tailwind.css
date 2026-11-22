@@ -4,6 +4,16 @@
     box-sizing: border-box;
 }
 
+.world-class {
+    font-size: 25px;
+    margin-top: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+
+
 .grid {
     display: grid;
     gap: 10px;
@@ -11,7 +21,7 @@
     width: 55%;
     margin: 100px auto;
     height: 90vh;
-
+    
 
 }
 
@@ -147,7 +157,7 @@
 }
 
 .ag {
-    background-image: url(media/reddit.png);
+    background-image: url(assets/images/sqi-matriculating-students.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -158,7 +168,7 @@
 }
 
 .zz {
-    background-image: url(media/rivian.png);
+    background-image: url(assets/Wema-Bank-Logo.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -169,7 +179,7 @@
 }
 
 .za {
-    background-image: url(media/shopify.png);
+    background-image: url(assets/images/sqi\ logo.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -180,7 +190,7 @@
 }
 
 .zb {
-    background-image: url(media/clerk.png);
+    background-image: url(assets/images/Wikipedia-logo-v2.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -191,7 +201,7 @@
 }
 
 .zaa {
-    background-image: url(media/verge.png);
+    background-image: url(assets/images/Nigerian_Army\ copy.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -203,7 +213,7 @@
 }
 
 .zbb {
-    background-image: url(media/googleio.png);
+    background-image: url(assets/Wema-Bank-Logo.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -214,7 +224,7 @@
 }
 
 .aab {
-    background-image: url(media/ted.png);
+    background-image: url(assets/images/sqi\ logo.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -225,7 +235,7 @@
 }
 
 .ggg {
-    background-image: url(media/poolside.png);
+    background-image: url(assets/images/gumroad.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -236,7 +246,7 @@
 }
 
 .hhhh {
-    background-image: url(media/midjourney.png);
+    background-image: url(assets/images/openai.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -247,7 +257,7 @@
 }
 
 .jjj {
-    background-image: url(media/nasa.png);
+    background-image: url(assets/opal.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
