@@ -38,21 +38,20 @@ header img{
 
 nav {
     display: flex;
-    gap: 60px;
-    font-size: 25px;
+    gap: 40px;
+    font-size: 18px;
     color: white;
     
 }
 
 header>button {
     display: flex;
-    padding: 10px 25px;
+    padding: 10px 15px;
     border-radius: 15px;
     margin: 10px 25px;
     border: none;
     font-size: 20px;
     background-color: red;
-    margin-right: 10px;
     color: white;
 
 }

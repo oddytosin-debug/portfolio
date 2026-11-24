@@ -8,11 +8,9 @@
 header {
     display: flex;
     align-items: center;
-    margin: 10px 25px;
-    justify-content: space-around;
+    margin: 10px 15px;
     text-decoration: solid;
     margin-right: 300px;
-    justify-items: center;
     header id="main-header" data-height-onload="86" data-height-loaded="true" data-fixed-height-onload="0" style="top: 0px;
  <div class="container clearfix et_menu_container"><div class="logo_container"><span class="logo_helper"></span><a href="https://sqi.edu.ng/"><img src="https://edu.sqi.ng/wp-content/uploads/2019/01/co.jpg" width="400" height="400" alt="Acquire In-Demand Tech skills." id="logo" data-height-percentage="90" data-actual-width="400" data-actual-height="400">;
 
@@ -29,20 +27,20 @@ nav a {
 
 
 header img {
-    height: 150px;
+    height: 100px;
     margin-left: 100px;
 
 }
 
 .ppppp {
     display: flex;
-    /* justify-content: space-between; */
+    
 }
 
 
 nav {
     display: flex;
-    gap: 60px;
+    gap: 40px;
 
 
 
